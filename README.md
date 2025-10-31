@@ -82,6 +82,6 @@ Plug your USB flash drive (press 'q' to quit)
 
 This utility has been tested and verified on:
 
-    1. **Ubuntu 24.04 LTS**
+    1. Ubuntu 24.04 LTS
 
 Other modern Linux distributions with lsblk and /sys support should work, but have not been tested.
