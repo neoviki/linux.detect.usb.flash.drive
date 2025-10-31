@@ -19,8 +19,8 @@ This tool helps you identify USB sticks, showing their **device path, vendor, mo
 To install the utility system-wide, simply clone the repository and run the installer script:
 
 ```bash
-git clone <this repo>
-cd <this repo>
+git clone https://github.com/neoviki/linux.detect.usb.flash.drive
+cd linux.detect.usb.flash.drive
 ./installer.sh
 ```
 
