@@ -6,7 +6,7 @@ This tool helps you identify USB sticks, showing their **device path, vendor, mo
 
 ---
 
-## Application of This Utility (Purpose)
+## What’s the Purpose of This Utility?
 
 1. **Detect newly inserted USB flash drives** in real time and display their device paths, vendor, model, and size.
 2. **Useful when creating bootable USB drives** - helps you identify the correct target device (e.g., `/dev/sdb`) before using tools like `dd`.
